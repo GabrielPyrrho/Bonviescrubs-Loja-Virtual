@@ -13,16 +13,22 @@ O objetivo deste projeto é criar uma loja virtual funcional e responsiva, utili
 # Funcionalidades Principais
 
 ## Exibição de banners promocionais
+
 -Destaques de produtos em promoção e novos lançamentos.
+
 -Seção de depoimentos de clientes satisfeitos.
+
 
 ## Catálogo de Produtos
 
 -Listagem de produtos com filtros por categoria, preço e popularidade.
+
 -Exibição de detalhes do produto, incluindo imagens, descrição, preço e opções de tamanho/cor.
 
 
 ## Tecnologias Utilizadas
 HTML5: Estrutura básica das páginas da loja.
+
 CSS3: Estilização customizada além do Bootstrap.
+
 Bootstrap 5: Framework principal para design responsivo e componentes UI.
